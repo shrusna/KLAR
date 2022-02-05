@@ -25,10 +25,33 @@ Route::get('/laporan', function () {
     return view('laporan');
 });
 
-Route::get('/member', function () {
-    return view('member');
-});
-
 Route::get('/transaksi', function () {
     return view('transaksi');
+});
+
+Route::get('/allmember', function () {
+    return view('/member/allmember');
+});
+
+Route::get('/activemember', function () {
+    return view('/member/activemember');
+});
+
+Route::get('/inactivemember', function () {
+    return view('/member/inactivemember');
+});
+
+Route::get('/form_kehadiran', function () {
+    return view('/form/form_kehadiran');
+});
+
+Route::get('/form_member', function () {
+    return view('/form/form_member');
+});
+
+Route::get('/activemember', function () {
+    return view('/member/activemember');
+});
+Route::get('/inactivemember', function () {
+    return view('/member/inactivemember');
 });

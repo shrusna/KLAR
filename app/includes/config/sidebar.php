@@ -23,13 +23,16 @@
             <div class="collapse" id="ui-basic">
                 <ul class="nav flex-column sub-menu">
                     <li class="nav-item">
-                        <a class="nav-link" href="/member">All Member</a>
+                        <a class="nav-link" href="/allmember">All Member</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Active Member</a>
+                        <a class="nav-link" href="/activemember">Active Member</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Inactive Member</a>
+                        <a class="nav-link" href="/inactivemember">Inactive Member</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/form_member">Tambah Member</a>
                     </li>
                 </ul>
             </div>
