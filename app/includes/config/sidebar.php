@@ -18,7 +18,7 @@
             <a class="nav-link" data-toggle="collapse" href="#member" aria-expanded="false" aria-controls="ui-basic">
                 <i class="menu-icon typcn typcn-coffee"></i>
                 <span class="menu-title" style="color: black;"> Member List</span>
-                <i class=" menu-arrow"></i>
+                <i class="menu-arrow"></i>
             </a>
             <div class="collapse" id="member">
                 <ul class="nav flex-column sub-menu">

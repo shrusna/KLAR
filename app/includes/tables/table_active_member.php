@@ -1,5 +1,12 @@
         <div class="main-panel">
             <div class="content-wrapper">
+                <div class="row page-title-header">
+                    <div class="col-12">
+                        <div class="page-header">
+                            <h4 class="page-title">Data Member Active</h4>
+                        </div>
+                    </div>
+                </div>
                 <div class="row">
                     <div class="col-lg-12 grid-margin stretch-card">
                         <div class="card">
