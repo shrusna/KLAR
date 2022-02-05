@@ -15,15 +15,15 @@
             </a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" data-toggle="collapse" href="#ui-basic" aria-expanded="false" aria-controls="ui-basic">
+            <a class="nav-link" data-toggle="collapse" href="#member" aria-expanded="false" aria-controls="ui-basic">
                 <i class="menu-icon typcn typcn-coffee"></i>
                 <span class="menu-title" style="color: black;"> Member List</span>
                 <i class=" menu-arrow"></i>
             </a>
-            <div class="collapse" id="ui-basic">
+            <div class="collapse" id="member">
                 <ul class="nav flex-column sub-menu">
                     <li class="nav-item">
-                        <a class="nav-link" href="/allmember">All Member</a>
+                        <a class="nav-link" href="/allmember">Semua Member</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="/activemember">Active Member</a>
@@ -44,10 +44,21 @@
             </a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" href="/transaksi">
-                <i class="menu-icon typcn typcn-th-large-outline"></i>
-                <span class="menu-title" style="color: black;">Daftar Transaksi</span>
+            <a class="nav-link" data-toggle="collapse" href="#transaksi" aria-expanded="false" aria-controls="ui-basic">
+                <i class="menu-icon typcn typcn-coffee"></i>
+                <span class="menu-title" style="color: black;"> Transaksi</span>
+                <i class=" menu-arrow"></i>
             </a>
+            <div class="collapse" id="transaksi">
+                <ul class="nav flex-column sub-menu">
+                    <li class="nav-item">
+                        <a class="nav-link" href="/transaksi">Semua Transaksi</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/form_transaksi">Tambah Transaksi</a>
+                    </li>
+                </ul>
+            </div>
         </li>
     </ul>
 </nav>

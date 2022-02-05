@@ -49,6 +49,10 @@ Route::get('/form_member', function () {
     return view('/form/form_member');
 });
 
+Route::get('/form_transaksi', function () {
+    return view('/form/form_transaksi');
+});
+
 Route::get('/activemember', function () {
     return view('/member/activemember');
 });

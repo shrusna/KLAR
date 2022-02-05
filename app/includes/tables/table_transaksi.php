@@ -4,24 +4,21 @@
                     <div class="col-lg-12 grid-margin stretch-card">
                         <div class="card">
                             <div class="card-body">
-                                <h4 class="card-title">Bordered table</h4>
+                                <h4 class="card-title">Daftar Transaksi</h4>
                                 <br />
                                 <div class="panel-body">
                                     <div class="table-responsive">
                                         <table class="table table-striped table-bordered table-hover">
                                             <thead>
                                                 <tr>
-                                                    <th>#</th>
+                                                    <th>No. Transaksi</th>
+                                                    <th>Member ID</th>
                                                     <th>Nama</th>
-                                                    <th>Tempat Lahir</th>
-                                                    <th>Tanggal Lahir</th>
-                                                    <th>Email</th>
-                                                    <th>No. HP</th>
-                                                    <th>Alamat</th>
-                                                    <th>Expired</th>
-                                                    <th>Token</th>
-                                                    <th>Tgl Bergabung</th>
-                                                    <th>Actions</th>
+                                                    <th>Tipe Paket</th>
+                                                    <th>Nominal</th>
+                                                    <th>FO</th>
+                                                    <th>Waktu</th>
+                                                    <th>Ket</th>
                                                 </tr>
                                             </thead>
                                             <tbody>
@@ -34,8 +31,6 @@
                                                     <td>syahrulhusna@gmail.com</td>
                                                     <td>Jl. Sapta No. 88</td>
                                                     <td>27 Maret 2022</td>
-                                                    <td>15</td>
-                                                    <td>1 Januari 2022</td>
                                                 </tr>
                                             </tbody>
                                         </table>
