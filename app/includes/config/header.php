@@ -22,4 +22,7 @@
     <link rel="stylesheet" href="assets/css/demo_1/style.css">
     <!-- End Layout styles -->
     <link rel="shortcut icon" href="assets/images/logoo.png" />
+    <link rel="stylesheet" href="assets/css/demo_1/stats.css">
+    <script type="text/javascript" src="assets/js/shared/chart.js"></script>
+
 </head>
