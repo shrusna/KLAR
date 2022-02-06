@@ -8,7 +8,7 @@
       <?php include(app_path() . '/includes/charts/chart_reports.php'); ?>
     </div>
   </div>
-  <?php include(app_path() . '/includes/config/footer.php'); ?>
-</body>
 
-</html>
+  <?php include(app_path() . '/includes/config/footer.php'); ?>
+  <script type="text/javascript" src="assets/js/shared/chart.js"></script>
+</body>

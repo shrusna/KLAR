@@ -12,6 +12,9 @@
     <link rel="stylesheet" href="assets/vendors/iconfonts/flag-icon-css/css/flag-icon.min.css">
     <link rel="stylesheet" href="assets/vendors/css/vendor.bundle.base.css">
     <link rel="stylesheet" href="assets/vendors/css/vendor.bundle.addons.css">
+    <link rel="stylesheet" href="assets/css/shared/dataTables.bootstrap.css" />
+    <link rel="stylesheet" href="assets/css/shared/dataTables.responsive.css" />
+
     <!-- endinject -->
     <!-- plugin css for this page -->
     <!-- End plugin css for this page -->
@@ -23,6 +26,5 @@
     <!-- End Layout styles -->
     <link rel="shortcut icon" href="assets/images/logoo.png" />
     <link rel="stylesheet" href="assets/css/demo_1/stats.css">
-    <script type="text/javascript" src="assets/js/shared/chart.js"></script>
 
 </head>
